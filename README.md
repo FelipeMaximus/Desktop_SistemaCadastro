@@ -12,6 +12,6 @@ Jasper Studio criamos relatórios e finalizado usando o recurso de backup.
 
   - [x] JDK17
   - [x] JASPER_STUDIO
-  - [x] DBEAVER
+  - [x] JDBC_DBEAVER
 
 
