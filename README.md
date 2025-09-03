@@ -13,6 +13,4 @@ Pagina de login muito atraente usando os padroes de UX/UI, sendo 100% responsiva
   - [x] CSS3
   - [x] RESPONSIVE
 
-## Deploy on Vercel
 
-[Click aqui](https://felipemaximus.github.io/Projeto_login/) para ver a live preview deste projeto.
