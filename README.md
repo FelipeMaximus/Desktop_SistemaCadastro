@@ -3,10 +3,8 @@
 ## :camera: Demo
 
 <p align="center">
-  <img src="login.png" alt="Login Demo" width="400" style="border-radius:15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" />
+  <img src="login.png" width="700" style="border-radius:15px;" />
 </p>
-
-![Imagem](login.png)
 
 # Sistema de Cadastro
 
