@@ -5,6 +5,10 @@
 ![Imagem](login.png)
 
 # Sistema de Cadastro
+
+Este é um projeto desktop desenvolvido em Java que integra Swing , utilizando SQLite como banco de dados local.
+O objetivo é fornecer uma aplicação prática de gestão de clientes, com interface gráfica amigável, persistência de dados e geração de relatórios dinâmicos.
+
 Neste Sistema CRUD Desktop utilizamos a JDK17, começando com a tela de login, usando criptografia e fazendo uma conexão com banco de dados interna o Dbeaver, com a tecnologia 
 Jasper Studio criamos relatórios e finalizado usando o recurso de backup.
 
@@ -12,6 +16,7 @@ Jasper Studio criamos relatórios e finalizado usando o recurso de backup.
 
   - [x] JDK17
   - [x] JASPER_STUDIO
+  - [x] JDBC_SQLite
   - [x] JDBC_DBEAVER
 
 
